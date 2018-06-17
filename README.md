@@ -29,7 +29,7 @@ This is the part where you'll need to edit some of the code, but don't you worry
 3. Go back to where you've saved the 'discordbot.py' file, and right click it, and then click on 'Edit with IDLE'. Scroll down until the very last line of code, and in there, change the "YOUR_TOKEN_HERE" to the token you've copied, and save the file.
 4. Click 'F5' on your keyboard to run the file. If everything went according to plan, no errors should appear and the bot should go online.
 
-... And that's it! If you've done all steps correctly, good job! To check if the bot is working, go to one of your text channels and type "!rabbit" - commands are not case sensitive. The bot should send you a random rabbit picture. This command is accessible by everyone!
+... And that's it! If you've done all steps correctly, good job! To check if the bot is working, go to one of your text channels and type "!rabbit" - commands are not case sensitive. The bot should send you a random picture of a rabbit. This command is accessible by everyone!
 
 # I'm Still Running Into Issues, Can You Help Me?
 
