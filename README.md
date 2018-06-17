@@ -20,6 +20,11 @@ a button titled 'Create a Bot User', Click on it. If a box pops up, click on 'Ye
 7. In the same page, search for a long link, with a button at the end of it titled 'Copy'. Copy the link and paste it in a new tab.
 8. Once you've copied the link and entered the website, select the server you'd like your bot to be in, if you can't find it, make sure you have 'Manage Server' permission. And then click 'Authorize'. The bot should now be in your server.
 
+# Install Discord Dependencies
+
+1. Open Command Prompt and type: "pip3 install discord"
+That's it. It should download the dependencies. Please do not close the Command Prompt until it successfully installed.
+
 # The Bot Is Offline, How Can I Make It Go Online?
 
 This is the part where you'll need to edit some of the code, but don't you worry, these steps are very simple.
