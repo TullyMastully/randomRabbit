@@ -20,19 +20,18 @@ a button titled 'Create a Bot User', Click on it. If a box pops up, click on 'Ye
 7. In the same page, search for a long link, with a button at the end of it titled 'Copy'. Copy the link and paste it in a new tab.
 8. Once you've copied the link and entered the website, select the server you'd like your bot to be in, if you can't find it, make sure you have 'Manage Server' permissions. And then click 'Authorize'. The bot should now be in your server.
 
-# The bot is offline, How can I make him go online?
+# The Bot Is Offline, How Can I Make It Go Online?
 
-This is the part where you'll need to add some of the code, but don't you worry, these steps are very simple.
+This is the part where you'll need to edit some of the code, but don't you worry, these steps are very simple.
 
 1. Go back to https://discordapp.com/developers/applications/me and click the bot you've created earlier.
 2. Scroll down in the page until you'll see a button titled 'Token: click to reveal': This token is private and shall not be sent to anyone. Click on the button, and copy the token.
-3. Go back to where you saved the 'discordbot.py' file, and right click it, and then click on 'Edit with IDLE'. Scroll down until the very last line of code, and in there, change the "YOUR_TOKEN_HERE" to the token you've copied, and save the file.
-4. Click 'F5' on your keyboard to run the file, If everything went according to plan, no errors should appear and the bot should go online.
+3. Go back to where you've saved the 'discordbot.py' file, and right click it, and then click on 'Edit with IDLE'. Scroll down until the very last line of code, and in there, change the "YOUR_TOKEN_HERE" to the token you've copied, and save the file.
+4. Click 'F5' on your keyboard to run the file. If everything went according to plan, no errors should appear and the bot should go online.
 
-... And that's it! If you've done all steps correctly, good job! To check if the bot is working, go to one of your text channels and type "
-"!rabbit" - commands are not case sensitive. The bot should send you a random rabbit picture. This command is accessible by everyone!
+... And that's it! If you've done all steps correctly, good job! To check if the bot is working, go to one of your text channels and type "!rabbit" - commands are not case sensitive. The bot should send you a random rabbit picture. This command is accessible by everyone!
 
-# I'm still running into issues, can you help me?
+# I'm Still Running Into Issues, Can You Help Me?
 
 I'll try my best to help you.
 * You can always add me on Discord: Tully#4476
