@@ -14,7 +14,7 @@ When downloading the "discordbot.py" file, save it somewhere on your computer. (
 2. Click on 'New App'
 3. Name your bot whatever you'd like. Preferably "Random Rabbit". You can also add a description and a profile picture, but these steps aren't necessary. 
 4. Click on 'Create App'
-5. If you've done all steps correctly thus far, a green box that says 'GREAT SUCCESS!' will appear. Scroll now in the page until you'll see
+5. If you've done all steps correctly thus far, a green box that says 'GREAT SUCCESS!' will appear. Scroll down in the page until you'll see
 a button titled 'Create a Bot User', Click on it. If a box pops up, click on 'Yes, do it!'.
 6. Scroll up and search for a button titled 'Generate OAuth2 URL' and click on it. Here you can edit the bot's permission, make sure to bot have permission to send messaages and embed links. The rest is up to you.
 7. In the same page, search for a long link, with a button at the end of it titled 'Copy'. Copy the link and paste it in a new tab.
