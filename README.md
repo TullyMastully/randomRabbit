@@ -16,7 +16,7 @@ When downloading the "discordbot.py" file, save it somewhere on your computer. (
 4. Click on 'Create App'
 5. If you've done all steps correctly thus far, a green box that says 'GREAT SUCCESS!' will appear. Scroll down in the page until you'll see
 a button titled 'Create a Bot User', Click on it. If a box pops up, click on 'Yes, do it!'.
-6. Scroll up and search for a button titled 'Generate OAuth2 URL' and click on it. Here you can edit the bot's permission, make sure to bot have permission to send messaages and embed links. The rest is up to you.
+6. Scroll up and search for a button titled 'Generate OAuth2 URL' and click on it. Here you can edit the bot's permission, make sure the bot has permissions to send messaages and embed links. The rest is up to you.
 7. In the same page, search for a long link, with a button at the end of it titled 'Copy'. Copy the link and paste it in a new tab.
 8. Once you've copied the link and entered the website, select the server you'd like your bot to be in, if you can't find it, make sure you have 'Manage Server' permissions. And then click 'Authorize'. The bot should now be in your server.
 
