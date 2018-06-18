@@ -1,4 +1,4 @@
-# Random Rabbit
+# Random Rabbit (Self Hosted)
 
 A discord bot made with Python. 
 This bot will send you a random picture of a rabbit from the Internet.
