@@ -40,3 +40,8 @@ This is the part where you'll need to edit some of the code, but don't you worry
 
 * You can always add me on Discord: `Tully#4476`
 
+# NOTE
+
+* I have some servers that I don't use. Add me on Discord and I will make sure to host your own bot so you don't have to locally host it.
+
+
