@@ -38,6 +38,5 @@ This is the part where you'll need to edit some of the code, but don't you worry
 
 # I'm Still Running Into Issues, Can You Help Me?
 
-I'll try my best to help you.
 * You can always add me on Discord: `Tully#4476`
-* Join my Discord Development Server: https://discord.gg/tSTAwua
+
